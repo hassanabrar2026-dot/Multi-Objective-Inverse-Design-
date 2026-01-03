@@ -1,0 +1,345 @@
+polymer_name,frequency,example,n_variants
+pdms,30,pdms,1
+plla,18,plla,1
+pei,17,pei,1
+pcl,15,pcl,1
+speek,12,speek,1
+pet,12,pet,1
+pmpma,12,pmpma,1
+ps,12,ps,1
+pspi,11,pspi,1
+pan,11,pan,1
+pc,11,pc,1
+peg,11,peg,1
+pvdf,11,pvdf,1
+ctc,10,ctc,1
+pva,9,pva,1
+spbi,9,spbi,1
+pbi,9,pbi,1
+peo,9,peo,1
+ptoa,8,ptoa,1
+polypyrrole,8,polypyrrole,1
+pa - 66,8,pa - 66,1
+pa11,8,pa11,1
+phbv,8,phbv,1
+abpbi,8,abpbi,1
+pp,8,pp,1
+polyisoprene,8,polyisoprene,1
+uncrosslinked ptmsp,7,uncrosslinked ptmsp,1
+ldpe,7,ldpe,1
+ph,7,ph,1
+pmma,7,pmma,1
+msebs,7,msebs,1
+s - polyseps,6,s - polyseps,1
+pim - 1,6,pim - 1,1
+pla,6,pla,1
+pes - c,6,pes - c,1
+cphna60,6,cphna60,1
+cpani,6,cpani,1
+pba,6,pba,1
+pa - 6,6,pa - 6,1
+p [ la ],6,p [ la ],1
+},5,},1
+sb - pla,5,sb - pla,1
+μ - ( pba ) ( pcl ),5,μ - ( pba ) ( pcl ),1
+ptmsn,5,ptmsn,1
+psszn,5,psszn,1
+pssli,5,pssli,1
+chitosan,5,chitosan,1
+sppekn,5,sppekn,1
+p ( an - b - ma ),5,p ( an - b - ma ),1
+d2000,5,d2000,1
+polyseps,5,polyseps,1
+ptmsp,5,ptmsp,1
+polysulfone,5,polysulfone,1
+an69,5,an69,1
+pb,5,pb,1
+pi,5,pi,1
+psf,5,psf,1
+pmpcs,5,pmpcs,1
+polycarbonate,5,polycarbonate,1
+sericin,4,sericin,1
+psu,4,psu,1
+sppsu,4,sppsu,1
+sptes,4,sptes,1
+hdpe,4,hdpe,1
+poly,4,poly,1
+pluronic f127,4,pluronic f127,1
+poly ( cph ),4,poly ( cph ),1
+polybenzoxazine,4,polybenzoxazine,1
+mma,4,mma,1
+polystyrene,4,polystyrene,1
+crosslinked ptmsp,4,crosslinked ptmsp,1
+ppb,4,ppb,1
+psu - g - peg,4,psu - g - peg,1
+pefcl,4,pefcl,1
+ph _ { pb },4,ph _ { pb },1
+ped,4,ped,1
+opbi,4,opbi,1
+pa6,4,pa6,1
+sptes - 80,4,sptes - 80,1
+##am,4,##am,1
+p2,3,p2,1
+vneod,3,vneod,1
+odpa - oda,3,odpa - oda,1
+poly ( bzma - co - ema ),3,poly ( bzma - co - ema ),1
+p3,3,p3,1
+p1,3,p1,1
+pdla,3,pdla,1
+pef,3,pef,1
+poly ( methyl methacrylate ),3,poly ( methyl methacrylate ),1
+pvp - peg,3,pvp - peg,1
+sa,3,sa,1
+pacm,3,pacm,1
+poc,3,poc,1
+p - nafion,3,p - nafion,1
+p3ht,3,p3ht,1
+poly [ 1 - ( trimethylsilyl ) - 1 - propyne ],3,poly [ 1 - ( trimethylsilyl ) - 1 - propyne ],1
+poly ( ε - caprolactone ),3,poly ( ε - caprolactone ),1
+poly ( vinyl alcohol ),3,poly ( vinyl alcohol ),1
+mpeg - ph - plla,3,mpeg - ph - plla,1
+polybenzimidazole,3,polybenzimidazole,1
+polyacrylonitrile,3,polyacrylonitrile,1
+polyethylene,3,polyethylene,1
+psma,3,psma,1
+ppdo,3,ppdo,1
+pvp,3,pvp,1
+pva - g - 4vp,3,pva - g - 4vp,1
+ptt,3,ptt,1
+ptpatpan,3,ptpatpan,1
+bdt,3,bdt,1
+scmc,3,scmc,1
+sptes - 70,3,sptes - 70,1
+tpqsh - cooh - xx,3,tpqsh - cooh - xx,1
+sulfonated poly ( ether ether ketone ),3,sulfonated poly ( ether ether ketone ),1
+pvph,3,pvph,1
+p _ { e },2,p _ { e },1
+pnipam,2,pnipam,1
+poly ( ethylene glycol ),2,poly ( ethylene glycol ),1
+pnb,2,pnb,1
+pdda,2,pdda,1
+poly ( bmmd / chdt - dvs ),2,poly ( bmmd / chdt - dvs ),1
+pcztpan,2,pcztpan,1
+pah,2,pah,1
+pna,2,pna,1
+poly ( ethylene terephthalate ),2,poly ( ethylene terephthalate ),1
+poly ( vinylidene fluoride ),2,poly ( vinylidene fluoride ),1
+##c acid ),2,##c acid ),1
+poly ( l - lactic acid ),2,poly ( l - lactic acid ),1
+matrimid ^ { ( r ) },2,matrimid ^ { ( r ) },1
+lcp,2,lcp,1
+polyaniline,2,polyaniline,1
+poly ( dimethylsiloxane ),2,poly ( dimethylsiloxane ),1
+polypropylene,2,polypropylene,1
+polyimide,2,polyimide,1
+polyethyleneimine,2,polyethyleneimine,1
+α - peo,2,α - peo,1
+psma -,2,psma -,1
+pa6 / msebs,2,pa6 / msebs,1
+pcl - b - p3ht - b - pcl,2,pcl - b - p3ht - b - pcl,1
+polyvinylidene fluoride,2,polyvinylidene fluoride,1
+),2,),1
+pvk,2,pvk,1
+pbma - g - pdms,2,pbma - g - pdms,1
+poly ( ethylene oxide ),2,poly ( ethylene oxide ),1
+pba - pdms,2,pba - pdms,1
+cbrspibi,2,cbrspibi,1
+bppo,2,bppo,1
+bmdpm,2,bmdpm,1
+"benzo [ 1, 2 - b : 4, 3 - b ' ] dithiophene",2,"benzo [ 1, 2 - b : 4, 3 - b ' ] dithiophene",1
+pes,2,pes,1
+alginate,2,alginate,1
+epoxy,2,epoxy,1
+pss,2,pss,1
+poly ( nipaam ),2,poly ( nipaam ),1
+peo - b - pmpcs,2,peo - b - pmpcs,1
+peo ),2,peo ),1
+pei _ { c },2,pei _ { c },1
+2255tmb - pi,2,2255tmb - pi,1
+) s,2,) s,1
+spsf - co - ppss,2,spsf - co - ppss,1
+crosslinked pi,2,crosslinked pi,1
+cellulose,2,cellulose,1
+sbs,2,sbs,1
+specm - 0. 34,2,specm - 0. 34,1
+pis,1,pis,1
+pip,1,pip,1
+low density polyethylene,1,low density polyethylene,1
+low - density poly - ethylene ),1,low - density poly - ethylene ),1
+linear low - density polyethylene,1,linear low - density polyethylene,1
+lc3,1,lc3,1
+ip,1,ip,1
+high density polyethylene,1,high density polyethylene,1
+p1 - p3,1,p1 - p3,1
+p _ { w },1,p _ { w },1
+p _,1,p _,1
+p - hema,1,p - hema,1
+phenolphthalein poly ( ether sulfone ),1,phenolphthalein poly ( ether sulfone ),1
+ph - spes,1,ph - spes,1
+ph - spe,1,ph - spe,1
+ph - pes,1,ph - pes,1
+"poly ( 2, 6 - dimethyl - 1, 4 - phenylene oxide )",1,"poly ( 2, 6 - dimethyl - 1, 4 - phenylene oxide )",1
+"poly ( 2, 5 - benzimidazole )",1,"poly ( 2, 5 - benzimidazole )",1
+"poly ( 1, 4 - dioxan - 2 - one )",1,"poly ( 1, 4 - dioxan - 2 - one )",1
+poly (,1,poly (,1
+poegs,1,poegs,1
+pnb - g - n _ { 6 },1,pnb - g - n _ { 6 },1
+pna - g - pvdf,1,pna - g - pvdf,1
+poly ( diphenylacetylene ) s,1,poly ( diphenylacetylene ) s,1
+poly ( diphenylacetylene ),1,poly ( diphenylacetylene ),1
+poly ( diallydimethylammonium chloride ),1,poly ( diallydimethylammonium chloride ),1
+poly ( d - lactic acid ),1,poly ( d - lactic acid ),1
+poly ( butylene adipate ),1,poly ( butylene adipate ),1
+poly ( arylene ether ketone ),1,poly ( arylene ether ketone ),1
+poly ( amide 11 ),1,poly ( amide 11 ),1
+"poly ( 4, 4 ' - diphenylether - 5, 5 ' - bibenzimidazole )",1,"poly ( 4, 4 ' - diphenylether - 5, 5 ' - bibenzimidazole )",1
+poly ( 4 - vinylpyridine ),1,poly ( 4 - vinylpyridine ),1
+"poly ( 3, 4 - bisphenyl - n - n - hexyl - pyrrole - 2, 5 - dione )",1,"poly ( 3, 4 - bisphenyl - n - n - hexyl - pyrrole - 2, 5 - dione )",1
+poly ( 3 - hydroxybutyrate - co - hydroxyvalerate ),1,poly ( 3 - hydroxybutyrate - co - hydroxyvalerate ),1
+poly ( 3 - hexylthiophene ),1,poly ( 3 - hexylthiophene ),1
+poly ( lauryl acrylate ) p [ la ],1,poly ( lauryl acrylate ) p [ la ],1
+poly ( lactic acids ),1,poly ( lactic acids ),1
+poly ( lactic acid ),1,poly ( lactic acid ),1
+poly ( l - histidine ),1,poly ( l - histidine ),1
+poly ( imide benzimidazole ) s,1,poly ( imide benzimidazole ) s,1
+poly ( hydroxyether of bisphenol a ),1,poly ( hydroxyether of bisphenol a ),1
+poly ( hexamethylene adipate ),1,poly ( hexamethylene adipate ),1
+poly ( furfuryl alcohol ),1,poly ( furfuryl alcohol ),1
+poly ( ethylene adipate ),1,poly ( ethylene adipate ),1
+"poly ( ethylene 2, 5 - furandicarboxylate - co - ε - caprolactone )",1,"poly ( ethylene 2, 5 - furandicarboxylate - co - ε - caprolactone )",1
+poly ( ether imide ),1,poly ( ether imide ),1
+poly ( phthalazinone ether ketone ),1,poly ( phthalazinone ether ketone ),1
+poly ( phenylene sulfide sulfone ),1,poly ( phenylene sulfide sulfone ),1
+poly ( phenylene - carborane ),1,poly ( phenylene - carborane ),1
+poly ( p - vinylphenol ),1,poly ( p - vinylphenol ),1
+poly ( p - oxycinnamoyl ),1,poly ( p - oxycinnamoyl ),1
+poly ( p - oligo ( ethylene glycol ) styrene ),1,poly ( p - oligo ( ethylene glycol ) styrene ),1
+poly ( oxypropylene ) diamine,1,poly ( oxypropylene ) diamine,1
+##adiene,1,##adiene,1
+poly ( n - vinylcarbazole ),1,poly ( n - vinylcarbazole ),1
+poly ( n - vinyl pyrrolidone ),1,poly ( n - vinyl pyrrolidone ),1
+poly ( n - octyl benzamide ),1,poly ( n - octyl benzamide ),1
+poly ( n - methyl - 4 - piperidyl methacrylate ),1,poly ( n - methyl - 4 - piperidyl methacrylate ),1
+poly ( n - isopropylacrylamide - co - butyl methacrylate ),1,poly ( n - isopropylacrylamide - co - butyl methacrylate ),1
+poly ( n - isopropylacrylamide ),1,poly ( n - isopropylacrylamide ),1
+poly ( n - isopropyl - acrylamide - co - acrylamide ),1,poly ( n - isopropyl - acrylamide - co - acrylamide ),1
+poly ( n - acryloylmorpholine ),1,poly ( n - acryloylmorpholine ),1
+##ated,1,##ated,1
+poly - hema,1,poly - hema,1
+poly ( ε - caprolactone ) - block - poly ( 3 - hexylthiophene ) - block - poly ( ε - caprolactone ),1,poly ( ε - caprolactone ) - block - poly ( 3 - hexylthiophene ) - block - poly ( ε - caprolactone ),1
+##c,1,##c,1
+##ene,1,##ene,1
+##ester,1,##ester,1
+poly ( trimethylene terephthalate ),1,poly ( trimethylene terephthalate ),1
+poly ( trimethyl silyl norbornene ),1,poly ( trimethyl silyl norbornene ),1
+poly ( styrenesulfonate ),1,poly ( styrenesulfonate ),1
+poly ( styrene - co - maleic anhydride ),1,poly ( styrene - co - maleic anhydride ),1
+poly ( styrene - co - ( glycidyl methacrylate ) - co - ( maleic anhydride ) ),1,poly ( styrene - co - ( glycidyl methacrylate ) - co - ( maleic anhydride ) ),1
+poly ( sebacic acid ),1,poly ( sebacic acid ),1
+poly ( sa ),1,poly ( sa ),1
+poly ( propylene ),1,poly ( propylene ),1
+poly ( phthalazinone ether sulfone ketone ),1,poly ( phthalazinone ether sulfone ketone ),1
+poly ( phthalazinone ether ketone nitrile ),1,poly ( phthalazinone ether ketone nitrile ),1
+polydimethylsiloxane,1,polydimethylsiloxane,1
+polydimethyl siloxane,1,polydimethyl siloxane,1
+polydiallyl - dimethylammoniumchloride,1,polydiallyl - dimethylammoniumchloride,1
+polycaprolactone,1,polycaprolactone,1
+polybutadiene,1,polybutadiene,1
+polybenzoxazine - polydimethylsiloxane,1,polybenzoxazine - polydimethylsiloxane,1
+diph - pes,1,diph - pes,1
+diph,1,diph,1
+da - pei,1,da - pei,1
+da,1,da,1
+crosslinked pis,1,crosslinked pis,1
+nafion,1,nafion,1
+mpeg _ { 45 } - ph _ { 30 } - plla _ { 82 },1,mpeg _ { 45 } - ph _ { 30 } - plla _ { 82 },1
+sulfonated peek,1,sulfonated peek,1
+monoph,1,monoph,1
+methoxy - poly ( ethylene glycol ) - poly ( l - histidine ) - poly ( l - lactide ),1,methoxy - poly ( ethylene glycol ) - poly ( l - histidine ) - poly ( l - lactide ),1
+sulfonated diph - pes,1,sulfonated diph - pes,1
+##link ^ {,1,##link ^ {,1
+μ - ( pba ) ( pcl ) ( co ),1,μ - ( pba ) ( pcl ) ( co ),1
+polyamide 6,1,polyamide 6,1
+polyallylamine hydrochloride,1,polyallylamine hydrochloride,1
+polyacrylonitrile - block - poly ( methyl acrylate ),1,polyacrylonitrile - block - poly ( methyl acrylate ),1
+{ 8 },1,{ 8 },1
+"poly { 2, 5 - bis [ ( 4 - methoxyphenyl ) oxycarbonyl ] styrene }",1,"poly { 2, 5 - bis [ ( 4 - methoxyphenyl ) oxycarbonyl ] styrene }",1
+"poly [ 1, 6 - bis ( p - carboxyphenoxy ) hexane ]",1,"poly [ 1, 6 - bis ( p - carboxyphenoxy ) hexane ]",1
+{ 6 },1,{ 6 },1
+polyphenylsulfone,1,polyphenylsulfone,1
+polyphenylene oxide,1,polyphenylene oxide,1
+( pah / pss ) _ { 5 } -,1,( pah / pss ) _ { 5 } -,1
+polyethylenimine,1,polyethylenimine,1
+##sf,1,##sf,1
+polyethylene terephthalate,1,polyethylene terephthalate,1
+polyethylene glycol,1,polyethylene glycol,1
+polyethylene glycerol,1,polyethylene glycerol,1
+##s,1,##s,1
+polyethersulfone,1,polyethersulfone,1
+polyether ether ketone,1,polyether ether ketone,1
+##role,1,##role,1
+##pm,1,##pm,1
+ppesk,1,ppesk,1
+##m,1,##m,1
+acrylonitrile - meth,1,acrylonitrile - meth,1
+polyvinylidene,1,polyvinylidene,1
+polyvinyl alcohol,1,polyvinyl alcohol,1
+polytriphenylamines,1,polytriphenylamines,1
+polystyrene sulfonic acid,1,polystyrene sulfonic acid,1
+polystyrene - b - polybutadiene - b - polystyrene,1,polystyrene - b - polybutadiene - b - polystyrene,1
+4 - vinylpyridine,1,4 - vinylpyridine,1
+- peo,1,- peo,1
+pa - cbrspibi,1,pa - cbrspibi,1
+pa ' 6e,1,pa ' 6e,1
+pa ' 6a,1,pa ' 6a,1
+μ - ( pba ) _ { 2 } ( pcl ) _ { m },1,μ - ( pba ) _ { 2 } ( pcl ) _ { m },1
+pdodbdtbtz,1,pdodbdtbtz,1
+pdms - g - pbma,1,pdms - g - pbma,1
+pdlla,1,pdlla,1
+pdadmac,1,pdadmac,1
+alkyl methacrylate ),1,alkyl methacrylate ),1
+p ( s93 - g5 - m2 ),1,p ( s93 - g5 - m2 ),1
+high - density polyethylene,1,high - density polyethylene,1
+fmd700,1,fmd700,1
+"nylon 6, 6",1,"nylon 6, 6",1
+e },1,e },1
+diphenyl,1,diphenyl,1
+diph - spes,1,diph - spes,1
+diph - spe,1,diph - spe,1
+ptes,1,ptes,1
+nylon 6,1,nylon 6,1
+nylon,1,nylon,1
+sodium alginate,1,sodium alginate,1
+nanocomposite ptmsp,1,nanocomposite ptmsp,1
+sc - sqnpaek - x,1,sc - sqnpaek - x,1
+sulfated sodium carboxymethyl cellulose,1,sulfated sodium carboxymethyl cellulose,1
+styrene - ethylene - butylene - styrene copolymer,1,styrene - ethylene - butylene - styrene copolymer,1
+"starch - g - poly ( 1, 4 - dioxan - 2 - one )",1,"starch - g - poly ( 1, 4 - dioxan - 2 - one )",1
+sqnpaek - ac - x,1,sqnpaek - ac - x,1
+pah / pss ) _,1,pah / pss ) _,1
+vne,1,vne,1
+pbma,1,pbma,1
+tpq - cooh,1,tpq - cooh,1
+sulfonated polystyrene - block - poly ( ethyl - ran - propylene ) - block - polystyrene,1,sulfonated polystyrene - block - poly ( ethyl - ran - propylene ) - block - polystyrene,1
+sulfonated polyarylenethioethersulfone,1,sulfonated polyarylenethioethersulfone,1
+peg grafted psu,1,peg grafted psu,1
+sulfonated ph - pes,1,sulfonated ph - pes,1
+af24,1,af24,1
+af,1,af,1
+r ) } fmd70,1,r ) } fmd70,1
+pefcl40,1,pefcl40,1
+sc - sqnpaek - 2. 5,1,sc - sqnpaek - 2. 5,1
+sptes - 60,1,sptes - 60,1
+sptes - 50,1,sptes - 50,1
+peek,1,peek,1
+sppeknh,1,sppeknh,1
+sppek,1,sppek,1
+pedot : pss,1,pedot : pss,1
+cp,1,cp,1
+cellulose tricarbanilate,1,cellulose tricarbanilate,1
+plla - b - pdlla,1,plla - b - pdlla,1
+cbrspibis,1,cbrspibis,1
+plla - b - pdla,1,plla - b - pdla,1
+sb - plas,1,sb - plas,1
+pla / poly ( diethylene adipate ),1,pla / poly ( diethylene adipate ),1
+##lsulfonate,1,##lsulfonate,1
